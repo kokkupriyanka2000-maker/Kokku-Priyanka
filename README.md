@@ -25,4 +25,4 @@ Python | Deep Learning | TensorFlow
 Developed a computer vision model to detect face masks in real-time images.
 
 ### 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINK
+- LinkedIn: https://www.linkedin.com/in/kokku-priyanka-1953621b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
